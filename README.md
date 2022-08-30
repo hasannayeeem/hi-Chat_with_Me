@@ -1,7 +1,7 @@
 
 ## Live Link
 
-https://hi-chat-with-me.web.app
+https://hi-chat-with-me.herokuapp.com/
 
 
 # Talk-With-Me
